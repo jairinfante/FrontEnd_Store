@@ -253,6 +253,7 @@ h3{
 }
 .formulario__campos--opciones{
     color: var(--negro);
+    /* color: var(--negro); */
 }
 
 .formulario__submit{
